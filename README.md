@@ -1,0 +1,5 @@
+- 👋 Hi, I’m alireza
+- 👀 I’m interested in create app for android
+- 🌱 I’m currently learning Java and kotlin
+- 💞️ I’m looking to collaborate on in a new factory
+- 📫 How to reach me ...
